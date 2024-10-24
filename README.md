@@ -1,4 +1,4 @@
-### Olá! Eu sou o Iuri Nascimento 🌎
+### Olá! Eu sou o Yuri Nascimento 🌎
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_yuuri/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_yuuri?is_from_webapp=1&sender_device=pc)
@@ -17,7 +17,4 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programção.
 
-## Contatos:
-- [Email](developer.iuri@gmail.com)<br>
-- [WhatsApp](https://contate.me/dev_yuuri)<br>
-- [Portfolio](https://www.behance.net/dev_yuuri/)<br>
+
