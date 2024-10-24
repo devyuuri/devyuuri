@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Yuri Nascimento 🌎
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuurinasc/)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_yuuri?is_from_webapp=1&sender_device=pc)
+
 
 ![Yuuri GitHub stats](https://github-readme-stats.vercel.app/api?username=devyuuri&show_icons=true&theme=dracula)
 
